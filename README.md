@@ -1,4 +1,3 @@
-# mermaid-playground
 ```mermaid
 sequenceDiagram
     autonumber
